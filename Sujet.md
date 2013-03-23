@@ -15,11 +15,13 @@ faisant figurer [Projet_BDA] au début du sujet du message, soit
 directement par Twitter (@nedseb) en utilisant le hashtag #TwitMiner
 pour que tout le monde puisse bénéficier de la réponse.
 
+Ce projet peut être effectué en binôme ou trinôme.
+
 À la fin du projet (voir ci-dessous pour les dates) vous devrez envoyer pour chaque phase une archive au format 
 zip contenant le travail réalisé ainsi qu'un fichier nommé "README.txt" expliquant clairement (10 lignes
 environs) ce que vous avez fait ainsi que la procédure à suivre pour
 tester votre travail. Le sujet du mail devra avoir le format suivant :
- `[Projet_BDA] Rendu Phase X: Nom1, Nom2`
+ `[Projet_BDA] Rendu Phase X: Nom1, Nom2, Nom3`
 
 Travail à réaliser :
 --------------------
