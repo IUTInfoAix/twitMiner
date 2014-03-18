@@ -19,13 +19,13 @@ Ce projet peut être effectué en binôme ou trinôme.
 
 Lorsque vous aurez terminé une phase, vous devrez envoyer par mail (à l'adresse ci-dessus) une archive au format 
 zip contenant le travail réalisé ainsi qu'un fichier nommé "README.txt" expliquant clairement (10 lignes
-environs) ce que vous avez fait ainsi que la procédure à suivre pour
+environ) ce que vous avez fait ainsi que la procédure à suivre pour
 tester votre travail. Le sujet du mail devra avoir le format suivant :
  `[Projet_BDA] Rendu Phase X: Nom1, Nom2, Nom3`
  
-**Attention au respect du format de vos email car les corrections sont partiellement automatisé et tout e-mail non correctement formaté peut ne pas être évalué !!**
+**Attention au respect du format de vos email car les corrections sont partiellement automatisées et tout e-mail non correctement formaté peut ne pas être évalué !!**
 
-Ne tarder pas à travailler car certaines phases peuvent réclamer beaucoup de temps. Une bonification pouvant représenter jusqu'à 10% de la note finale sera accordée aux étudiants envoyant leur travail en avance. Cette bonification sera proportionnelle à l'avance de l'équipe.
+Ne tardez pas à travailler car certaines phases peuvent réclamer beaucoup de temps. Une bonification pouvant représenter jusqu'à 10% de la note finale sera accordée aux étudiants envoyant leur travail en avance. Cette bonification sera proportionnelle à l'avance de l'équipe.
 
 Travail à réaliser :
 --------------------
@@ -34,7 +34,7 @@ Travail à réaliser :
 
 Le travail à réaliser durant cette phase consiste à se constituer un jeu
 de données qui sera étudié dans les phases suivantes. Sur Twitter, les 
-utilisateurs échanges des messages soit pour discuter soit pour échanger 
+utilisateurs échangent des messages soit pour discuter soit pour échanger 
 des informations. En extrayant des règles d'association à partir de ces données, 
 on cherche à comprendre quels sont les liens entre les mots apparaissant simultanément 
 dans des tweets que l'on aura transformé en transactions ou lignes de la base. 
@@ -115,7 +115,7 @@ fichier exemple `test.trans` contenant trois transactions dans ce format
 3 4 5
 ```
 
-L'exécution de la commande `./apriori test.trans 2 test.out` calcul tous
+L'exécution de la commande `./apriori test.trans 2 test.out` calcule tous
 les motifs fréquents du fichier `test.trans` ayant un support supérieur
 à 2 (fréquence supérieure à 2/3) et écrit le résultat dans le fichier
 `test.out`. Le contenu de ce fichier est le suivant :
@@ -194,7 +194,7 @@ fichier résultat devra faire moins de 1Mo (s'il fait plus tronquez le).
 ### Phase 3 : Nettoyage des données 
 
 Lors de la phase précédente, vous avez généré un très grand nombre de
-règles d'association. Certaines d'entre elles étaient pertinente
+règles d'association. Certaines d'entre elles étaient pertinentes
 d'autres apportaient peu d'informations. L'objectif de cette phase est
 double, tout d'abord faire un nettoyage du fichier de données afin d'en
 améliorer sa qualité et ainsi obtenir des résultats plus précis. Puis
